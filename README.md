@@ -18,7 +18,7 @@ I'm a student, and a developper in my free time.
 
 Although you will see them in much more detail in my website, I work a lot with **Python** (using Discord.py, Tkinter, Telepot, ... ). As I love this language, I've also done things in Java, C#, C++, JS, and many more.
 
-I am now planning to get better skills with **Unity**, and everything that is involved into it: music composition, 3D designs, C# coding, animations...
+I am now planning to get better skills with **Unity**, and everything that is involved into it: music composition, 3D designs, C# coding, animations... . That's why I'm currently making a videogame.
 
 Here you will all my public GitHub projects (not all of them have an article on my website).
 
@@ -29,4 +29,4 @@ Well, there's a simple solution that every dev will tell you. If you are on Linu
 ```
 sudo reboot
 ```
-It may ask your password, but don't worry. Everything should be fine after the restart (except it's a real issue with your computer).
+It may ask your password, but don't worry. Everything should be fine after the restart (except if it's a real issue with your computer).
