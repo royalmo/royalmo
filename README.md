@@ -1,32 +1,21 @@
 # Hi 👋, I'm Eric.
-I'm a student, and a developper in my free time.
+I'm a student and sometimes program stuff.
 
-### What am I doing?
+### Why am I reading this?
 
-- 🌱 I’m currently studying **engineering** .
+First, because you entered in my GitHub profile. What a stalker!
 
-- 🔭 I’m working on small own projects in my free time.
+Second, because royalmo/royalmo is a ✨special ✨ repository that I can use to add a README.md to my GitHub profile!
 
-- 👨‍💻 All of my projects are available at [ericroy.net](https://ericroy.net)
+### Ok, I'm here to stalk. Who are you?
 
-- 📫 You can reach me at [eric@ericroy.net](mailto:eric@ericroy.net)
+I'm Eric, didn't you see the title? ...oh, you need more info, I see.
 
-- ⚡ Fun fact: no, there are no fun facts.
+Well, you can always contact me at eric@ericroy.net to ask me anything you want.
 
+### So, if you don't tell anything about you, what's the purpose of this?
 
-### What types of projects?
+I wanted my GitHub profile to have a README, that's all. I don't think that a very prepared text will make a difference in getting a job or not.
 
-Although you will see them in much more detail in my website, I work a lot with **Python** (using Discord.py, Tkinter, Telepot, ... ). As I love this language, I've also done things in Java, C#, C++, JS, and many more.
-
-I am now planning to get better skills with **Unity**, and everything that is involved into it: music composition, 3D designs, C# coding, animations... . That's why I'm currently making a videogame.
-
-Here you will all my public GitHub projects (not all of them have an article on my website).
-
-
-### HELP! My computer isn't working...
-
-Well, there's a simple solution that every dev will tell you. If you are on Linux, open a terminal prompt and type:
-```
-sudo reboot
-```
-It may ask your password, but don't worry. Everything should be fine after the restart (except if it's a real issue with your computer).
+But, what *will* make a difference is my projects listed below. Please note that they've been done in my free time, and aren't perfect.
+I just make some repositories public because I think someone might be interested in some code snippets (and to feed GitHub Copilot's AI).
